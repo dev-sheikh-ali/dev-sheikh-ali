@@ -13,6 +13,15 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://dev-sheikh-ali.com)**
+## Skills and Experience
+* 📱 flutter
+* 💻 HTML, CSS, JS, PHP
+* 🐍 python
+* ☕Java
+* 💻C++
+
+## Examples of Work
+<img src="https://www.figma.com/file/O502sHGXecLkKgpRS2h3ma/Fastmarket?node-id=0%3A1" width="512" >
 
 ## 🚀 Languages and Tools:
 
