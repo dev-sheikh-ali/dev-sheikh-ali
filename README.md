@@ -21,7 +21,7 @@
 * 💻C++
 
 ## Examples of Work
-<img src="https://www.figma.com/file/O502sHGXecLkKgpRS2h3ma/Fastmarket?node-id=0%3A1" width="512" >
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fapp-design-animation-creative-creative-design-design-gif-14098338&psig=AOvVaw3gDCPM8xQpBa6Ndpf3Dgb9&ust=1648037197395000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIi815HX2fYCFQAAAAAdAAAAABAJ" width="512" >
 
 ## 🚀 Languages and Tools:
 
