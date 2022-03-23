@@ -57,16 +57,16 @@
 
   <br/>
     <a href="https://github.com/dev-sheikh-ali/github-readme-stats"><img alt="dev-sheikh-alir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dev-sheikh-ali&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ali&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/dev-ali/github-readme-stats) 
 
   <br/>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sheikh-ali&langs_count_private=true&theme=merko&card_width=445)<br><br>
+  [!Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sheikh-ali&langs_count_private=true&theme=merko&card_width=445)<br><br>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
 <br/>
 
-<a href="https://github.com/dev-sheikh-ali/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dev-sheikh-ali&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/dev-sheikh-ali/github-readme-activity-graph"><img alt="dev-sheikh-ali's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dev-sheikh-ali&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
