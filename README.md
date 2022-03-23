@@ -60,7 +60,7 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ali&layout=compactbg_color=0D1117)](https://github.com/dev-ali/github-readme-stats) -->
 <!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
- <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="dev-sheikh-ali's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-sheikh-ali&theme=black-ice&hide_border=false&stroke=0000&background=1c041c"/>
+ 
     </a>
 <br/>
 <br/>
