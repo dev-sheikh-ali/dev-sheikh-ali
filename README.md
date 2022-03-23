@@ -57,12 +57,8 @@
 
   <br/>
     <a href="https://github.com/dev-sheikh-ali/github-readme-stats"><img alt="dev-sheikh-alir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dev-sheikh-ali&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
- <strong>💡 My Languages :</strong><br><br>
-<img src="https://img.shields.io/badge/-Python-lightgrey?style=plastic"/>
-<img src="https://img.shields.io/badge/-JavaScript-lightgrey?style=plastic"/>
-<img src="https://img.shields.io/badge/-PHP-lightgrey?style=plastic"/>
-<img src="https://img.shields.io/badge/-C++-lightgrey?style=plastic"/><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ali&layout=compactbg_color=0D1117)](https://github.com/dev-ali/github-readme-stats)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ali&layout=compactbg_color=0D1117)](https://github.com/dev-ali/github-readme-stats) -->
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
