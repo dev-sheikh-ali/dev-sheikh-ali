@@ -19,7 +19,7 @@
 * 🐍 python
 * ☕Java
 * 💻C++
-* ![WhaleDockerGIF](https://user-images.githubusercontent.com/102146469/161864587-6243743d-a2d9-46d5-af38-a6361224db4d.gif) Docker
+* ![WhaleDockerGIF](https://user-images.githubusercontent.com/102146469/161864587-6243743d-a2d9-46d5-af38-a6361224db4d.gif=10x10) Docker
 
 <!-- 
 ## Examples of Work
