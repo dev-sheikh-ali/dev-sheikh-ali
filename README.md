@@ -84,6 +84,5 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=dev-sheikh-ali">
 </a>
 <a href="https://github.com/dev-sheikh-ali?tab=followers"><img src="https://img.shields.io/github/followers/dev-sheikh-ali?label=Followers&style=social" alt="GitHub Badge"></a>
