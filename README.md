@@ -15,7 +15,8 @@
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://dev-sheikh-ali.com)**
 ## Skills and Experience
 * 📱 flutter
-* 💻 HTML, CSS, JS, PHP
+* <img src="https://user-images.githubusercontent.com/102146469/161865863-43ee8a14-986a-4a2f-8b7e-9b6267aa695f.gif" width="20px">
+HTML, CSS, JS, PHP
 * 🐍 python
 * ☕Java
 * 💻C++
