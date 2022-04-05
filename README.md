@@ -19,7 +19,9 @@
 * 🐍 python
 * ☕Java
 * 💻C++
-* <img src="https://user-images.githubusercontent.com/102146469/161864587-6243743d-a2d9-46d5-af38-a6361224db4d.gif" width="25px">Docker
+* <img src="https://user-images.githubusercontent.com/102146469/161864587-6243743d-a2d9-46d5-af38-a6361224db4d.gif" width="20px">Docker
+* <img src="https://user-images.githubusercontent.com/102146469/161865521-5368243e-e7fd-4895-8796-8bb64db3ff3a.gif" width ="20px"> linux
+
 
 <!-- 
 ## Examples of Work
