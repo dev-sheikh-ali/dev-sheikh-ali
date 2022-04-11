@@ -34,6 +34,7 @@
 **Sticky note app -js**
 <br/><br/><br/>
 <img src="https://github.com/dev-sheikh-ali/sticky-Note-App/blob/main/images/addnote.png?raw=true" width="700px" >
+<img src="https://github.com/dev-sheikh-ali/sticky-Note-App/blob/main/images/note.png?raw=true" width="700px" >
 <br/>
 **Loan calculator**
 <br/><br/><br/>
@@ -45,7 +46,7 @@
 <br/>
 **weather app**
 <br/><br/><br/>
-<img src="https://github.com/dev-sheikh-ali/weather-app/raw/main/screenshot.png?raw=true" width="700px" >
+<img src="https://github.com/dev-sheikh-ali/weather-app/raw/main/screenshot.png?raw=true" width="500px" >
 <br/>
 
 ## 🚀 Languages and Tools:
