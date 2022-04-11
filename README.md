@@ -23,9 +23,30 @@
 * <img src="https://user-images.githubusercontent.com/102146469/161865521-5368243e-e7fd-4895-8796-8bb64db3ff3a.gif" width ="20px"> linux
 
 
-<!-- 
+
 ## Examples of Work
-<img src=""  > -->
+**ecommerce application-codeigniter4**
+<br/>
+<br/>
+<br/>
+<img src="https://raw.githubusercontent.com/dev-sheikh-ali/codeigniter-eccommerce-site/17708fed3b1475a68f8d0b0a4bdb600f70e5a34a/public/admin/img/Screenshot.png" width="800px">
+<br/>
+**Sticky note app -js**
+<br/><br/><br/>
+<img src="https://github.com/dev-sheikh-ali/sticky-Note-App/blob/main/images/addnote.png?raw=true" width="700px" >
+<br/>
+**Loan calculator**
+<br/><br/><br/>
+<img src="https://github.com/dev-sheikh-ali/loan-app/raw/main/images/loan-calc-res.png" width="700px" >
+<br/>
+**Item Scanner-flutter**
+<br/><br/><br/>
+<img src="https://github.com/dev-sheikh-ali/fastmarket/blob/main/asset/images/login.png?raw=true" width="200px" >
+<br/>
+**weather app**
+<br/><br/><br/>
+<img src="https://github.com/dev-sheikh-ali/weather-app/raw/main/screenshot.png?raw=true" width="700px" >
+<br/>
 
 ## 🚀 Languages and Tools:
 
