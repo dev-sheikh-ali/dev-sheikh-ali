@@ -3,9 +3,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ali</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from kenya.</h3>
 
-
 ## 🙋‍♂️ About Me
 
+<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 - 🔭 I’m currently working on **several flutter applications**
 
 - 🌱 I’m currently learning **Deep learning**
@@ -13,6 +13,7 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://dev-sheikh-ali.com)**
+
 ## Skills and Experience
 * 📱 flutter
 * <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ362Ssn67CjIVhcvF8rHJdWYRQBunaNxA_A_9PUS-U9-hF5QLGIybNHFRMlH6bVpDJ8p8&usqp=CAU" width="20px">HTML, CSS, JS, PHP
