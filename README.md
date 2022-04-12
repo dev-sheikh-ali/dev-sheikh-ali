@@ -6,6 +6,7 @@
 ## 🙋‍♂️ About Me
 
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+
 - 🔭 I’m currently working on **several flutter applications**
 
 - 🌱 I’m currently learning **Deep learning**
