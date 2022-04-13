@@ -5,8 +5,6 @@
 
 ## 🙋‍♂️ About Me
 
-<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
-
 - 🔭 I’m currently working on **several flutter applications**
 
 - 🌱 I’m currently learning **Deep learning**
@@ -16,6 +14,8 @@
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://dev-sheikh-ali.com)**
 
 ## Skills and Experience
+<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+
 * 📱 flutter
 * <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ362Ssn67CjIVhcvF8rHJdWYRQBunaNxA_A_9PUS-U9-hF5QLGIybNHFRMlH6bVpDJ8p8&usqp=CAU" width="20px">HTML, CSS, JS, PHP
 * 🐍 python
