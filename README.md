@@ -14,7 +14,7 @@
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://dev-sheikh-ali.com)**
 
 ## Skills and Experience
-<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="code.gif" width="500" height="260" />
 
 * 📱 flutter
 * <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ362Ssn67CjIVhcvF8rHJdWYRQBunaNxA_A_9PUS-U9-hF5QLGIybNHFRMlH6bVpDJ8p8&usqp=CAU" width="20px">HTML, CSS, JS, PHP
@@ -28,27 +28,23 @@
 
 ## Examples of Work
 **ecommerce application-codeigniter4**
-<br/>
-<br/>
-<br/>
+<br/><br>
 <img src="https://raw.githubusercontent.com/dev-sheikh-ali/codeigniter-eccommerce-site/17708fed3b1475a68f8d0b0a4bdb600f70e5a34a/public/admin/img/Screenshot.png" width="800px">
-<br/>
+<br/><br>
 **Sticky note app -js**
-<br/><br/><br/>
-<img src="https://github.com/dev-sheikh-ali/sticky-Note-App/blob/main/images/addnote.png?raw=true" width="700px" >
-<img src="https://github.com/dev-sheikh-ali/sticky-Note-App/blob/main/images/note.png?raw=true" width="700px" >
-<br/>
-**Loan calculator**
-<br/><br/><br/>
-<img src="https://github.com/dev-sheikh-ali/loan-app/raw/main/images/loan-calc-res.png" width="700px" >
-<br/>
+<br/><br/><br>
+
+<img src="https://github.com/dev-sheikh-ali/sticky-Note-App/blob/main/images/addnote.png?raw=true" width="800px" >
+<img src="https://github.com/dev-sheikh-ali/sticky-Note-App/blob/main/images/note.png?raw=true" width="800px" >
+
+<!-- **Loan calculator**
+<img src="https://github.com/dev-sheikh-ali/loan-app/raw/main/images/loan-calc-res.png" width="400px" >
+
 **Item Scanner-flutter**
-<br/><br/><br/>
-<img src="https://github.com/dev-sheikh-ali/fastmarket/blob/main/asset/images/login.png?raw=true" width="200px" >
-<br/>
+<img src="https://github.com/dev-sheikh-ali/fastmarket/blob/main/asset/images/login.png?raw=true" width="100px" >
+
 **weather app**
-<br/><br/><br/>
-<img src="https://github.com/dev-sheikh-ali/weather-app/raw/main/screenshot.png?raw=true" width="500px" >
+<img src="https://github.com/dev-sheikh-ali/weather-app/raw/main/screenshot.png?raw=true" width="300px" > -->
 <br/>
 
 ## 🚀 Languages and Tools:
