@@ -10,8 +10,8 @@
 - 🌱 I’m currently learning **Deep learning**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://dev-sheikh-ali.com)**
+<!-- 
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://dev-sheikh-ali.com)** -->
 
 ## Skills and Experience
 <img align="right" alt="GIF" src="code.gif" width="500" height="260" />
