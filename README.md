@@ -34,8 +34,8 @@
 **Sticky note app -js**
 <br/><br/><br>
 
-<img src="https://github.com/dev-sheikh-ali/sticky-Note-App/blob/main/images/addnote.png?raw=true" width="800px" >
-<img src="https://github.com/dev-sheikh-ali/sticky-Note-App/blob/main/images/note.png?raw=true" width="800px" >
+<img src="https://github.com/dev-sheikh-ali/sticky-Note-App/blob/main/images/carrental.png?raw=true" width="800px" >
+
 
 <!-- **Loan calculator**
 <img src="https://github.com/dev-sheikh-ali/loan-app/raw/main/images/loan-calc-res.png" width="400px" >
