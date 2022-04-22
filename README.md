@@ -31,10 +31,10 @@
 <br/><br>
 <img src="https://raw.githubusercontent.com/dev-sheikh-ali/codeigniter-eccommerce-site/17708fed3b1475a68f8d0b0a4bdb600f70e5a34a/public/admin/img/Screenshot.png" width="800px">
 <br/><br>
-**Sticky note app -js**
+**car-renatal site**
 <br/><br/><br>
 
-<img src="https://github.com/dev-sheikh-ali/sticky-Note-App/blob/main/images/carrental.png?raw=true" width="800px" >
+<img src="carrental.png" width="800px" >
 
 
 <!-- **Loan calculator**
