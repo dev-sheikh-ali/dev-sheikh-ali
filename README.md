@@ -17,7 +17,7 @@
 <img align="right" alt="GIF" src="code.gif" width="500" height="260" />
 
 * 📱 flutter
-* <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ362Ssn67CjIVhcvF8rHJdWYRQBunaNxA_A_9PUS-U9-hF5QLGIybNHFRMlH6bVpDJ8p8&usqp=CAU" width="20px">HTML, CSS, JS, PHP
+* <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ362Ssn67CjIVhcvF8rHJdWYRQBunaNxA_A_9PUS-U9-hF5QLGIybNHFRMlH6bVpDJ8p8&usqp=CAU" width="16px">  HTML, CSS, JS, PHP
 * 🐍 python
 * ☕Java
 * 💻C++
