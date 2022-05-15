@@ -73,7 +73,8 @@
 <p align="center">
     <a href="https://github.com/dev-sheikh-ali/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="dev-sheikh-ali's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-sheikh-ali&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+    </a><br/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sheikh-ali&langs_count=8&layout=compact&theme=gotham" alt="dev-sheikh-ali :: Top Langs" />
 </p>
 
 ## 📊 My Github Stats
