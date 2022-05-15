@@ -25,7 +25,7 @@
 * <img src="https://user-images.githubusercontent.com/102146469/161865521-5368243e-e7fd-4895-8796-8bb64db3ff3a.gif" width ="18px"> linux
 
 
-
+<!-- 
 ## Examples of Work
 **ecommerce application-codeigniter4**
 <br/><br>
@@ -34,7 +34,7 @@
 **car-rental site**
 <br/><br/>
 <img src="carrental.png" width="800px" >
-
+ -->
 
 <!-- **Loan calculator**
 <img src="https://github.com/dev-sheikh-ali/loan-app/raw/main/images/loan-calc-res.png" width="400px" >
