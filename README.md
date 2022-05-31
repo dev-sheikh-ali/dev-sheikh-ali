@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **several flutter applications**
 
-- 🌱 I’m currently learning **Deep learning**
+- 🌱 I’m currently learning **solidity**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 <!-- 
