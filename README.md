@@ -72,14 +72,15 @@
     <a href="https://github.com/dev-sheikh-ali/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="dev-sheikh-ali's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-sheikh-ali&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a><br/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sheikh-ali&langs_count=8&layout=compact&theme=gotham" alt="dev-sheikh-ali :: Top Langs" />
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dev-sheikh-ali&langs_count=8&layout=compact&theme=gotham" alt="dev-sheikh-ali :: Top Langs" />
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/dev-sheikh-ali/github-readme-stats"><img alt="dev-sheikh-alir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dev-sheikh-ali&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/dev-sheikh-ali/github-readme-stats"><img alt="dev-sheikh-alir's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-sheikh-ali&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/dev-sheikh-ali/github-readme-stats"><img alt="Ali's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<!-- <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dev-sheikh-ali&theme=react&line_height=40&hide=css"/> </a> -->
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
